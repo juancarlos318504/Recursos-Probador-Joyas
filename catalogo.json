@@ -2,12 +2,12 @@
    "catalogo":[
       {
          "nombre":"Anillo 1",
-         "imagen":"https://juancarlos318504.github.io/Monogram-Resources/Renders/INFINITO-DIAMANTES_0001.png",
+         "imagen":"https://juancarlos318504.github.io/Recursos-Probador-Joyas/Imagenes/Render1.PNG",
          "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/infinito%20full%20piedras.fbx"
       },
       {
          "nombre":"Anillo Brote",
-         "imagen":"https://juancarlos318504.github.io/Monogram-Resources/Renders/Anillo%20Brote 3.jpg",
+         "imagen":"https://juancarlos318504.github.io/Recursos-Probador-Joyas/Imagenes/Render2.PNG",
          "modelo_unity":"https://juancarlos318504.github.io/Monogram-Resources/Definitivos/Anillo%20Brote.fbx"
       }
    ]
